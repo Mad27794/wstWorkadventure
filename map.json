@@ -230,7 +230,7 @@
          "columns":6,
          "firstgid":1833,
          "image":"src\/assets\/WST_Logo.png",
-         "imageheight"64,
+         "imageheight":64,
          "imagewidth":258,
          "margin":0,
          "name":"WST_Logo",
